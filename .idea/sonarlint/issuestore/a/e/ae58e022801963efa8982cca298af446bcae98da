@@ -1,0 +1,77 @@
+
+fsquid:S1192"HDefine a constant instead of duplicating this literal "common" 95 times.(ÄßĞ¢8âå¼Å°.
+ssquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘‚ºìùÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²¬ÿşÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»úìúÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»úìúÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æì‹Óıÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŸÖ¼üÿÿÿÿ8ŸÃªÆ°.
+nsquid:S00100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¹æ“8ŸÃªÆ°.
+dsquid:S1192m"GDefine a constant instead of duplicating this literal "other" 17 times.(Š‘Å[8ŸÃªÆ°.
+qsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¤Ê8ŸÃªÆ°.
+vsquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²¬ÿşÿÿÿÿ8ŸÃªÆ°.
+usquid:S00117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æì‹Óıÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²¬ÿşÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æì‹Óıÿÿÿÿ8ŸÃªÆ°.
+psquid:S00117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅöÛÄ8ŸÃªÆ°.
+vsquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğØæ´şÿÿÿÿ8ŸÃªÆ°.
+qsquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¤Ê8ŸÃªÆ°.
+vsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŸÖ¼üÿÿÿÿ8ŸÃªÆ°.
+ssquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¦ùÇùÿÿÿÿ8ŸÃªÆ°.
+psquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÀ›[8ŸÃªÆ°.
+qsquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅöÛÄ8ŸÃªÆ°.
+gsquid:S2147$"DCombine this catch with the one at line 32, which has the same body.(É˜Ùúÿÿÿÿ8âå¼Å°.
+qsquid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅöÛÄ8ŸÃªÆ°.
+vsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÛı‹úÿÿÿÿ8ŸÃªÆ°.
+osquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(ö“‡şÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğØæ´şÿÿÿÿ8ŸÃªÆ°.
+psquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş•¡$8ŸÃªÆ°.
+vsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÛı‹úÿÿÿÿ8ŸÃªÆ°.
+´squid:S1192‰"Define a constant instead of duplicating this literal "WHERE data_warehouse_change_date >  !{lastvalue:data_warehouse_change_date}!\n" 4 times.(ŞÖ÷Œøÿÿÿÿ8æÙÀÅ°.
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âå¼Å°.
+psquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏË8ŸÃªÆ°.
+vsquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷»½Àùÿÿÿÿ8ŸÃªÆ°.
+‰squid:S1192X"fDefine a constant instead of duplicating this literal "ORDER BY data_warehouse_change_date ;" 4 times.(øÉíûÿÿÿÿ8ŸÃªÆ°.
+rsquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¨¨·ùÿÿÿÿ8âå¼Å°.
+fsquid:S1192{"HDefine a constant instead of duplicating this literal "dim_run" 8 times.(ª–¡œ8ŸÃªÆ°.
+vsquid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŸÖ¼üÿÿÿÿ8ŸÃªÆ°.
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅöÛÄ8ŸÃªÆ°.
+nsquid:S1192V"KDefine a constant instead of duplicating this literal "SELECT *\n" 4 times.(‘üÉ²ÿÿÿÿÿ8ŸÃªÆ°.
+osquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(ö“‡şÿÿÿÿ8ŸÃªÆ°.
+psquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÀ›[8ŸÃªÆ°.
+vsquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÛı‹úÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æì‹Óıÿÿÿÿ8ŸÃªÆ°.
+osquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ö“‡şÿÿÿÿ8ŸÃªÆ°.
+isquid:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ÇâŞáøÿÿÿÿ8âå¼Å°.
+osquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ö“‡şÿÿÿÿ8ŸÃªÆ°.
+nsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹®™8ŸÃªÆ°.
+qsquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½« ì8ŸÃªÆ°.
+qsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¤Ê8ŸÃªÆ°.
+vsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²¬ÿşÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»úìúÿÿÿÿ8ŸÃªÆ°.
+osquid:S00117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÀ›[8ŸÃªÆ°.
+‰squid:S1192Š"eDefine a constant instead of duplicating this literal "ORDER BY data_warehouse_change_date;" 4 times.(øÉíûÿÿÿÿ8ŸÃªÆ°.
+osquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏË8ŸÃªÆ°.
+vsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğØæ´şÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğØæ´şÿÿÿÿ8ŸÃªÆ°.
+qsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¤Ê8ŸÃªÆ°.
+psquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş•¡$8ŸÃªÆ°.
+vsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷»½Àùÿÿÿÿ8ŸÃªÆ°.
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½« ì8ŸÃªÆ°.
+psquid:S1192>"MDefine a constant instead of duplicating this literal "environment" 10 times.(Õ´Ôßüÿÿÿÿ8ŸÃªÆ°.
+psquid:S00117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏË8ŸÃªÆ°.
+psquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏË8ŸÃªÆ°.
+psquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş•¡$8ŸÃªÆ°.
+psquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş•¡$8ŸÃªÆ°.
+vsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷»½Àùÿÿÿÿ8ŸÃªÆ°.
+qsquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¤Ê8ŸÃªÆ°.
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âå¼Å°.
+vsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»úìúÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷»½Àùÿÿÿÿ8ŸÃªÆ°.
+vsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²¬ÿşÿÿÿÿ8ŸÃªÆ°.
+psquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½« ì8ŸÃªÆ°.
+nsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ö“‡şÿÿÿÿ8ê¤Æ°.
+qsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½« ì8ŸÃªÆ°.
+vsquid:S00117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÛı‹úÿÿÿÿ8ŸÃªÆ°.
+psquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÀ›[8ŸÃªÆ°.
+usquid:S00117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŸÖ¼üÿÿÿÿ8ŸÃªÆ°.
